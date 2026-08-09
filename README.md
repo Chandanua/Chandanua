@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0ef6cc,75:58a6ff,100:bc8cff&height=220&section=header&text=Chandan%20Uttharkar%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20%26%20Next.js%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,25:161b22,50:0ef6cc,75:58a6ff,100:bc8cff&amp;height=220&amp;section=header&amp;text=Chandan%20Uttharkar%20A&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=React%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI%20%E2%80%A2%20Full%20Stack&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EF6CC&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+impactful+tech+from+full-stack+apps+to+local+AI;%F0%9F%8F%86+Hackathon+Winner+%7C+3%C3%97+Top+10+Finalist;%F0%9F%92%BC+Open+to+Opportunities+%E2%80%94+Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=0EF6CC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%F0%9F%9A%80+Building+impactful+tech+from+full-stack+apps+to+local+AI;%F0%9F%8F%86+Hackathon+Winner+%E2%80%A2+3%C3%97+Top+10+Finalist;%F0%9F%92%BC+Open+to+Opportunities+%E2%80%94+Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <br/>
 <p>
-<img src="https://komarev.com/ghpvc/?username=Chandanua&label=Profile%20Views&color=0ef6cc&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/Chandanua?tab=followers"><img src="https://img.shields.io/github/followers/Chandanua?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" /></a>
-<a href="https://github.com/Chandanua?tab=repositories"><img src="https://img.shields.io/github/stars/Chandanua?label=Total%20Stars&style=for-the-badge&color=bc8cff&labelColor=0d1117" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=Chandanua&amp;label=Profile%20Views&amp;color=0ef6cc&amp;style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/Chandanua?tab=followers"><img src="https://img.shields.io/github/followers/Chandanua?label=Followers&amp;style=for-the-badge&amp;color=58a6ff&amp;labelColor=0d1117" alt="Followers" /></a>
+<a href="https://github.com/Chandanua?tab=repositories"><img src="https://img.shields.io/github/stars/Chandanua?label=Total%20Stars&amp;style=for-the-badge&amp;color=bc8cff&amp;labelColor=0d1117" alt="Stars" /></a>
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://chandanua.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ef6cc?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/chandan-uttharkar-a-4848432a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:chandanua56@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.instagram.com/chandanua_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://chandanua.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ef6cc?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=0d1117" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/chandan-uttharkar-a-4848432a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:chandanua56@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/chandanua_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -344,6 +344,6 @@ AI & Prompt Eng      █████████████████░░�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0ef6cc,75:58a6ff,100:bc8cff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,25:161b22,50:0ef6cc,75:58a6ff,100:bc8cff&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
