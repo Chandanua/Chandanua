@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,25:161b22,50:0ef6cc,75:58a6ff,100:bc8cff&amp;height=220&amp;section=header&amp;text=Chandan%20Uttharkar%20A&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=React%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI%20%E2%80%A2%20Full%20Stack&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=0EF6CC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%F0%9F%9A%80+Building+impactful+tech+from+full-stack+apps+to+local+AI;%F0%9F%8F%86+Hackathon+Winner+%E2%80%A2+3%C3%97+Top+10+Finalist;%F0%9F%92%BC+Open+to+Opportunities+%E2%80%94+Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=0EF6CC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=%F0%9F%9A%80+Full-Stack+Dev+%E2%80%A2+AI+Builder+%E2%80%A2+Problem+Solver;%F0%9F%8F%86+Hackathon+Winner+%E2%80%A2+3%C3%97+Top+10+Finalist;%F0%9F%92%BC+Open+to+Work+%E2%80%94+Let's+Build+Together!" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <br/>
